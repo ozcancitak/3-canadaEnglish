@@ -1861,11 +1861,13 @@ input, select, textarea {
             display: flex;
             align-items: center;
             			color: #fff;
+            			margin-left: 10px;
 
         }
 
         .list_features > li > span {
-            margin-left: 15px;
+            margin-left: 10px;
+            width: max-content;
 
         }
 
