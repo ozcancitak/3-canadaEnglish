@@ -1217,7 +1217,7 @@ input, select, textarea {
 /* Section/Article */
 
 	section, article {
-		margin-bottom: 5em;
+		margin-bottom: 0.5em;
 	}
 
 	section > :last-child,
@@ -1797,8 +1797,8 @@ input, select, textarea {
 						color: rgba(255, 255, 255, 0.75);
 			font-size: 2.35em;
 			font-weight: 700;
-			line-height: 1.3em;
-			margin: 0 0 1.5em 0;
+			line-height: 0.1em;
+			margin: 0 0 0.5em 0;
 		}
 
 			#banner h2 strong {
@@ -1812,7 +1812,7 @@ input, select, textarea {
 				border-top: solid 1px;
 				border-color: #888;
 				border-color: rgba(255, 255, 255, 0.25);
-				margin: 10px 0 1.25em 0;
+				margin: 0px 0 1.25em 0;
 			}
 
 			#banner h2:after {
@@ -1821,7 +1821,7 @@ input, select, textarea {
 				border-bottom: solid 1px;
 				border-color: #888;
 				border-color: rgba(255, 255, 255, 0.25);
-				margin: 1.25em 0 10px 0;
+				margin: 1.25em 0 0px 0;
 			}
 
 		#banner p {
@@ -1838,7 +1838,7 @@ input, select, textarea {
 		}
 
 		.s_filters {
-            margin: 15px 0;
+            margin: 5px 0;
             font-size: 12px;
             font-weight: 100;
             text-transform: uppercase;
@@ -1875,7 +1875,7 @@ input, select, textarea {
 /* Sidebar */
 
 	#sidebar h2 {
-		font-size: 1.5em;
+		font-size: 1.1em;
 	}
 
 /* Wrappers */
@@ -2340,13 +2340,13 @@ input, select, textarea {
 			}
 
 			h2 {
-				line-height: 1.5em;
+				line-height: 0.5em;
 			}
 
 		/* Section/Article */
 
 			section, article {
-				margin-bottom: 3em;
+				margin-bottom: 1em;
 			}
 
 		/* Image */
